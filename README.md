@@ -13,10 +13,10 @@ O objetivo é gerar **clusters acionáveis** para apoiar decisões estratégicas
 
 ## 🔍 Principais etapas do pipeline
 - **Data Cleaning e ETL**
-- Construção de variáveis **RFM**
 - Tratamento de **outliers**
+- Exploratory Data Analysis (EDA)
+- Construção de variáveis **RFM**
 - **Feature Scaling** para clusterização
-- 
 - Treinamento e comparação de modelos de clusterização
 - Avaliação com métricas quantitativas + análise visual dos clusters
 
