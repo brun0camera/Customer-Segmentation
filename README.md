@@ -19,6 +19,7 @@ O objetivo é gerar **clusters acionáveis** para apoiar decisões estratégicas
 - **Feature Scaling** para clusterização
 - Treinamento e comparação de modelos de clusterização
 - Avaliação com métricas quantitativas + análise visual dos clusters
+- Dataset https://drive.google.com/file/d/1LNAHaPXEaGp1WLI_J348g0AeCFH208lz/view?usp=sharing
 
 ---
 
